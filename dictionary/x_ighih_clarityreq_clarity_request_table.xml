@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Clarity Request Table" max_length="40" name="x_ighih_clarityreq_clarity_request_table" type="collection"/>
+</database>
