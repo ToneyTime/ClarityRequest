@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Notes" section_id="2475aa5bdb5fe200ddd1b34ffe961976" sys_domain="global" table="x_ighih_clarityreq_clarity_request_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>0</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 17:38:28</sys_created_on>
+            <sys_id>055c1b1fdb1b66005bf9b6bffe961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">2475aa5bdb5fe200ddd1b34ffe961976</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 17:38:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>1</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 17:38:28</sys_created_on>
+            <sys_id>855c1b1fdb1b66005bf9b6bffe961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">2475aa5bdb5fe200ddd1b34ffe961976</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 17:38:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 17:38:28</sys_created_on>
+            <sys_id>095c1b1fdb1b66005bf9b6bffe961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">2475aa5bdb5fe200ddd1b34ffe961976</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 17:38:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>3</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 17:38:28</sys_created_on>
+            <sys_id>895c1b1fdb1b66005bf9b6bffe961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">2475aa5bdb5fe200ddd1b34ffe961976</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 17:38:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>4</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 17:38:28</sys_created_on>
+            <sys_id>0d5c1b1fdb1b66005bf9b6bffe961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">2475aa5bdb5fe200ddd1b34ffe961976</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 17:38:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>5</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 17:38:28</sys_created_on>
+            <sys_id>8d5c1b1fdb1b66005bf9b6bffe961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">2475aa5bdb5fe200ddd1b34ffe961976</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 17:38:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 17:38:28</sys_created_on>
+            <sys_id>015c1b1fdb1b66005bf9b6bffe96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">2475aa5bdb5fe200ddd1b34ffe961976</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 17:38:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>7</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 17:38:28</sys_created_on>
+            <sys_id>815c1b1fdb1b66005bf9b6bffe96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">2475aa5bdb5fe200ddd1b34ffe961976</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 17:38:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>8</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 17:38:28</sys_created_on>
+            <sys_id>055c1b1fdb1b66005bf9b6bffe96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">2475aa5bdb5fe200ddd1b34ffe961976</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 17:38:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>9</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 17:38:28</sys_created_on>
+            <sys_id>855c1b1fdb1b66005bf9b6bffe96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">2475aa5bdb5fe200ddd1b34ffe961976</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 17:38:28</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Notes</caption>
+            <header>false</header>
+            <name>x_ighih_clarityreq_clarity_request_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 13:38:42</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2475aa5bdb5fe200ddd1b34ffe961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Notes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Clarity Request" source="x_ighih_clarityreq">3c00e25fdb1fe200ddd1b34ffe9619fd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Clarity Request">3c00e25fdb1fe200ddd1b34ffe9619fd</sys_scope>
+            <sys_update_name>sys_ui_section_2475aa5bdb5fe200ddd1b34ffe961976</sys_update_name>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 13:38:42</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

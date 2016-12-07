@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="a875aa5bdb5fe200ddd1b34ffe961976" sys_domain="global" table="x_ighih_clarityreq_clarity_request_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 13:38:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2075aa5bdb5fe200ddd1b34ffe961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_ighih_clarityreq_clarity_request_table" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">a875aa5bdb5fe200ddd1b34ffe961976</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 13:38:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 13:38:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a075aa5bdb5fe200ddd1b34ffe961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_ighih_clarityreq_clarity_request_table" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">a875aa5bdb5fe200ddd1b34ffe961976</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">2475aa5bdb5fe200ddd1b34ffe961976</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 13:38:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 13:42:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c056ee5bdb5fe200ddd1b34ffe9619db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_ighih_clarityreq_clarity_request_table" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">a875aa5bdb5fe200ddd1b34ffe961976</sys_ui_form>
+            <sys_ui_section caption="Resolution" display_value="Resolution" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4c56ee5bdb5fe200ddd1b34ffe9619da</sys_ui_section>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 13:42:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_ighih_clarityreq_clarity_request_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>vecchit</sys_created_by>
+            <sys_created_on>2016-11-30 13:38:42</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a875aa5bdb5fe200ddd1b34ffe961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ighih_clarityreq_clarity_request_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Clarity Request" source="x_ighih_clarityreq">3c00e25fdb1fe200ddd1b34ffe9619fd</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Clarity Request">3c00e25fdb1fe200ddd1b34ffe9619fd</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a875aa5bdb5fe200ddd1b34ffe961976</sys_update_name>
+            <sys_updated_by>vecchit</sys_updated_by>
+            <sys_updated_on>2016-11-30 13:38:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

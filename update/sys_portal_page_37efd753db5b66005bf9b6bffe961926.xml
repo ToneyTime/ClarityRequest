@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2016-12-07 01:29:49">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>vecchit</sys_created_by>
+        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>37efd753db5b66005bf9b6bffe961926</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My  Change Homepage</sys_name>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Clarity Request">3c00e25fdb1fe200ddd1b34ffe9619fd</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>vecchit</sys_updated_by>
+        <sys_updated_on>2016-11-30 17:55:05</sys_updated_on>
+        <title>My  Change Homepage</title>
+        <user display_value="Toney Vecchio">40ef3672dbf96640ddd1b34ffe961912</user>
+        <view/>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone999</dropzone>
+                <offset>0</offset>
+                <page display_value="My  Change Homepage">37efd753db5b66005bf9b6bffe961926</page>
+                <summary/>
+                <sys_created_by>vecchit</sys_created_by>
+                <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                <sys_id>08206393db5b66005bf9b6bffe96193f</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vecchit</sys_updated_by>
+                <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">08206393db5b66005bf9b6bffe96193f</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>0c206393db5b66005bf9b6bffe96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">08206393db5b66005bf9b6bffe96193f</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>44206393db5b66005bf9b6bffe961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>c2e689f584a942008ac749db7e21f466</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">08206393db5b66005bf9b6bffe96193f</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>48206393db5b66005bf9b6bffe96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>27d20db584a942008ac749db7e21f4bc</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">08206393db5b66005bf9b6bffe96193f</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>80206393db5b66005bf9b6bffe961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>Incidents related to Resolving Changes</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">08206393db5b66005bf9b6bffe96193f</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>cc206393db5b66005bf9b6bffe96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="My  Change Homepage">37efd753db5b66005bf9b6bffe961926</page>
+                <summary/>
+                <sys_created_by>vecchit</sys_created_by>
+                <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                <sys_id>0c206393db5b66005bf9b6bffe96193b</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vecchit</sys_updated_by>
+                <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">0c206393db5b66005bf9b6bffe96193b</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>00206393db5b66005bf9b6bffe96193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">0c206393db5b66005bf9b6bffe96193b</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>48206393db5b66005bf9b6bffe96193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>c2e689f584a942008ac749db7e21f466</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">0c206393db5b66005bf9b6bffe96193b</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>4c206393db5b66005bf9b6bffe96193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>59d089b584a942008ac749db7e21f494</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">0c206393db5b66005bf9b6bffe96193b</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>84206393db5b66005bf9b6bffe96193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>Changes by Business Service</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">0c206393db5b66005bf9b6bffe96193b</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>c0206393db5b66005bf9b6bffe96193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone999</dropzone>
+                <offset>2</offset>
+                <page display_value="My  Change Homepage">37efd753db5b66005bf9b6bffe961926</page>
+                <summary/>
+                <sys_created_by>vecchit</sys_created_by>
+                <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                <sys_id>0c206393db5b66005bf9b6bffe961941</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vecchit</sys_updated_by>
+                <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">0c206393db5b66005bf9b6bffe961941</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>00206393db5b66005bf9b6bffe961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">0c206393db5b66005bf9b6bffe961941</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>48206393db5b66005bf9b6bffe961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>c2e689f584a942008ac749db7e21f466</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">0c206393db5b66005bf9b6bffe961941</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>4c206393db5b66005bf9b6bffe961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>834f78b584a942008ac749db7e21f43d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">0c206393db5b66005bf9b6bffe961941</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>84206393db5b66005bf9b6bffe961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>Change Tasks Past Due</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">0c206393db5b66005bf9b6bffe961941</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>c0206393db5b66005bf9b6bffe961942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="My  Change Homepage">37efd753db5b66005bf9b6bffe961926</page>
+                <summary/>
+                <sys_created_by>vecchit</sys_created_by>
+                <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                <sys_id>84206393db5b66005bf9b6bffe96193e</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vecchit</sys_updated_by>
+                <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">84206393db5b66005bf9b6bffe96193e</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>00206393db5b66005bf9b6bffe96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>Changes by Technical Service</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">84206393db5b66005bf9b6bffe96193e</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>4c206393db5b66005bf9b6bffe96193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">84206393db5b66005bf9b6bffe96193e</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>88206393db5b66005bf9b6bffe96193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">84206393db5b66005bf9b6bffe96193e</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>c0206393db5b66005bf9b6bffe96193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>c2e689f584a942008ac749db7e21f466</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">84206393db5b66005bf9b6bffe96193e</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>c4206393db5b66005bf9b6bffe96193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>d2cf78b584a942008ac749db7e21f4f9</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone999</dropzone>
+                <offset>1</offset>
+                <page display_value="My  Change Homepage">37efd753db5b66005bf9b6bffe961926</page>
+                <summary/>
+                <sys_created_by>vecchit</sys_created_by>
+                <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                <sys_id>88206393db5b66005bf9b6bffe961940</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vecchit</sys_updated_by>
+                <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">88206393db5b66005bf9b6bffe961940</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>04206393db5b66005bf9b6bffe961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>Incidents related to Causing Changes</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">88206393db5b66005bf9b6bffe961940</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>40206393db5b66005bf9b6bffe961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">88206393db5b66005bf9b6bffe961940</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>8c206393db5b66005bf9b6bffe961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">88206393db5b66005bf9b6bffe961940</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>c4206393db5b66005bf9b6bffe961941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>c2e689f584a942008ac749db7e21f466</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">88206393db5b66005bf9b6bffe961940</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>c8206393db5b66005bf9b6bffe961940</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>79a2cdb584a942008ac749db7e21f4e8</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="My  Change Homepage">37efd753db5b66005bf9b6bffe961926</page>
+                <summary/>
+                <sys_created_by>vecchit</sys_created_by>
+                <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                <sys_id>8c206393db5b66005bf9b6bffe96193c</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vecchit</sys_updated_by>
+                <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">8c206393db5b66005bf9b6bffe96193c</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>08206393db5b66005bf9b6bffe96193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">8c206393db5b66005bf9b6bffe96193c</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>40206393db5b66005bf9b6bffe96193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>c2e689f584a942008ac749db7e21f466</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">8c206393db5b66005bf9b6bffe96193c</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>44206393db5b66005bf9b6bffe96193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">8c206393db5b66005bf9b6bffe96193c</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>80206393db5b66005bf9b6bffe96193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">8c206393db5b66005bf9b6bffe96193c</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>8c206393db5b66005bf9b6bffe96193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>Workstream Report</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">8c206393db5b66005bf9b6bffe96193c</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>c8206393db5b66005bf9b6bffe96193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>semi_donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">8c206393db5b66005bf9b6bffe96193c</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>cc206393db5b66005bf9b6bffe96193c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>9edf9fdfdb1b66005bf9b6bffe961986</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>1</offset>
+                <page display_value="My  Change Homepage">37efd753db5b66005bf9b6bffe961926</page>
+                <summary/>
+                <sys_created_by>vecchit</sys_created_by>
+                <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                <sys_id>c4206393db5b66005bf9b6bffe96193a</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vecchit</sys_updated_by>
+                <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">c4206393db5b66005bf9b6bffe96193a</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>04206393db5b66005bf9b6bffe96193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>Changes by State</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">c4206393db5b66005bf9b6bffe96193a</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>08206393db5b66005bf9b6bffe96193a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>53a181b584a942008ac749db7e21f452</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">c4206393db5b66005bf9b6bffe96193a</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>40206393db5b66005bf9b6bffe96193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">c4206393db5b66005bf9b6bffe96193a</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>8c206393db5b66005bf9b6bffe96193a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">c4206393db5b66005bf9b6bffe96193a</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>c4206393db5b66005bf9b6bffe96193b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>c2e689f584a942008ac749db7e21f466</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">c4206393db5b66005bf9b6bffe96193a</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>c8206393db5b66005bf9b6bffe96193a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="My  Change Homepage">37efd753db5b66005bf9b6bffe961926</page>
+                <summary/>
+                <sys_created_by>vecchit</sys_created_by>
+                <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                <sys_id>cc20afdfdb1b66005bf9b6bffe961988</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>vecchit</sys_updated_by>
+                <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">cc20afdfdb1b66005bf9b6bffe961988</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>0020afdfdb1b66005bf9b6bffe961989</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>78ad74b584a942008ac749db7e21f421</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">cc20afdfdb1b66005bf9b6bffe961988</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>0c206393db5b66005bf9b6bffe961939</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">cc20afdfdb1b66005bf9b6bffe961988</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>80206393db5b66005bf9b6bffe96193a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>c2e689f584a942008ac749db7e21f466</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">cc20afdfdb1b66005bf9b6bffe961988</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>c020afdfdb1b66005bf9b6bffe961989</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2016-11-30 12:55:04">cc20afdfdb1b66005bf9b6bffe961988</portal_section>
+                        <sys_created_by>vecchit</sys_created_by>
+                        <sys_created_on>2016-11-30 17:55:04</sys_created_on>
+                        <sys_id>cc206393db5b66005bf9b6bffe961939</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>vecchit</sys_updated_by>
+                        <sys_updated_on>2016-11-30 17:55:04</sys_updated_on>
+                        <value>My Change Approvals</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

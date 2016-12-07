@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Clarity Request Table" max_length="40" name="x_ighih_clarityreq_clarity_request_table" type="collection"/>
+    <element audit="true" extends="task" label="Clarity Request" max_length="40" name="x_ighih_clarityreq_clarity_request_table" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="CA Case #" max_length="40" name="ca_case" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Documentation Required" max_length="40" name="documentation_required" type="string">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Roadmap Workstream" max_length="40" name="workstream" reference="x_ighih_clarityreq_clarity_workstream" type="reference">
+            <choice/>
+        </element>
+    </element>
 </database>
