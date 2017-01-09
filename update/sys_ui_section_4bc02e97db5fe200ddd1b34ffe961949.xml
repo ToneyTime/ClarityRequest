@@ -4,196 +4,210 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>ed510ce9dbab6a005bf9b6bffe96190c</sys_id>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>3eaf2058db547a007921d211ce9619ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_requested_by</element>
             <position>1</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>61510ce9dbab6a005bf9b6bffe96190d</sys_id>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>beaf2058db547a007921d211ce9619ac</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_requested_for</element>
             <position>2</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>e1510ce9dbab6a005bf9b6bffe96190d</sys_id>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>32af2058db547a007921d211ce9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>workstream</element>
             <position>3</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>65510ce9dbab6a005bf9b6bffe96190d</sys_id>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>b2af2058db547a007921d211ce9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ca_case</element>
             <position>4</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>e5510ce9dbab6a005bf9b6bffe96190d</sys_id>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>36af2058db547a007921d211ce9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_type</element>
+            <position>5</position>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>b6af2058db547a007921d211ce9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>69510ce9dbab6a005bf9b6bffe96190d</sys_id>
+            <position>6</position>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>3aaf2058db547a007921d211ce9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>6</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>e9510ce9dbab6a005bf9b6bffe96190d</sys_id>
+            <position>7</position>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>baaf2058db547a007921d211ce9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>impact</element>
-            <position>7</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>6d510ce9dbab6a005bf9b6bffe96190d</sys_id>
+            <position>8</position>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>3eaf2058db547a007921d211ce9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
-            <position>8</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>ed510ce9dbab6a005bf9b6bffe96190d</sys_id>
+            <position>9</position>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>beaf2058db547a007921d211ce9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assignment_group</element>
-            <position>9</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>61510ce9dbab6a005bf9b6bffe96190e</sys_id>
+            <position>10</position>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>32af2058db547a007921d211ce9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
-            <position>10</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>e1510ce9dbab6a005bf9b6bffe96190e</sys_id>
+            <position>11</position>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>b2af2058db547a007921d211ce9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>11</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>65510ce9dbab6a005bf9b6bffe96190e</sys_id>
+            <position>12</position>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>36af2058db547a007921d211ce9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>12</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>e5510ce9dbab6a005bf9b6bffe96190e</sys_id>
+            <position>13</position>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>b6af2058db547a007921d211ce9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>13</position>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-12-07 01:28:01</sys_created_on>
-            <sys_id>69510ce9dbab6a005bf9b6bffe96190e</sys_id>
+            <position>14</position>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:25:08</sys_created_on>
+            <sys_id>3aaf2058db547a007921d211ce9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ighih_clarityreq_clarity_request_table" sys_domain="global" view="Default view">4bc02e97db5fe200ddd1b34ffe961949</sys_ui_section>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-12-07 01:28:01</sys_updated_on>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:25:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="u_symptom" label="Request Type" language="en" table="x_ighih_clarityreq_clarity_request_table">
+    <sys_documentation element="close_notes" label="Resolution Notes" language="en" table="x_ighih_clarityreq_clarity_request_table">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_symptom</element>
+            <element>close_notes</element>
             <help/>
             <hint/>
-            <label>Request Type</label>
+            <label>Resolution Notes</label>
             <language>en</language>
             <name>x_ighih_clarityreq_clarity_request_table</name>
-            <plural>Request Types</plural>
+            <plural>Resolution Notes</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>vecchit</sys_created_by>
-            <sys_created_on>2016-11-30 17:16:05</sys_created_on>
+            <sys_created_by>AMER\vecchit</sys_created_by>
+            <sys_created_on>2017-01-09 14:20:39</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
-            <sys_id>b517d71fdb1b66005bf9b6bffe96197f</sys_id>
+            <sys_id>8d9e2818db547a007921d211ce9619d7</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Request Type</sys_name>
+            <sys_name>Resolution Notes</sys_name>
             <sys_package display_value="Clarity Request" source="x_ighih_clarityreq">3c00e25fdb1fe200ddd1b34ffe9619fd</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Clarity Request">3c00e25fdb1fe200ddd1b34ffe9619fd</sys_scope>
-            <sys_update_name>sys_documentation_x_ighih_clarityreq_clarity_request_table_u_symptom_en</sys_update_name>
-            <sys_updated_by>vecchit</sys_updated_by>
-            <sys_updated_on>2016-11-30 17:16:05</sys_updated_on>
+            <sys_update_name>sys_documentation_x_ighih_clarityreq_clarity_request_table_close_notes_en</sys_update_name>
+            <sys_updated_by>AMER\vecchit</sys_updated_by>
+            <sys_updated_on>2017-01-09 14:20:39</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
